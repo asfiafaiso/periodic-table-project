@@ -72,7 +72,7 @@ $loginUrl = $client->createAuthUrl();
 
     <div class="card">
         <div class="title">Welcome Back</div>
-        <div class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit</div>
+        <div class="subtitle">Periodic Table Project</div>
 
         <a class="google-btn" href="<?= $loginUrl ?>">
             <img src="https://developers.google.com/identity/images/g-logo.png" alt="Google Logo">
